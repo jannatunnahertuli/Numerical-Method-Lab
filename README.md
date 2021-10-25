@@ -1,5 +1,5 @@
-# Follwoing Methods Code are done in this reposistory.
-# Non Linear Method Solution:
+
+### Solution of Non Linear Equation:
             1.Polynomial Method
             2.Bisection Method
             3.False Poistion Method

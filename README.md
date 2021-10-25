@@ -9,5 +9,11 @@
 ### Solution of Linear Equation:          
             1.Gauss Elimination Method
             2.Gauss Jordan Elimination Method
-            
-            
+      
+### Solution of Numerical Integration using
+            1.Trapezoidal Rule
+            2.Simpson’s One-Third Rule
+            3.Simpson’s Three- Eighth Rule
+        
+        
+           
